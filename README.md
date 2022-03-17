@@ -1,11 +1,4 @@
 # Angular13-Material-Modal
-This is an adaptation of Krunal Lathiya's article in AppDividend on Feb. 16, 2022 
-"Angular 13 Material Modal: Complete Guide"
-
-It corrects the declarations in app.component.ts,
-and it corrects the Angular/material imports.
-
-The article itself is very worthwhile and I recommend it.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
